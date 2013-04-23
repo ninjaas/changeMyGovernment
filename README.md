@@ -1,8 +1,19 @@
 changemygovt
 ============
 
-Lets fix our Governments. Make it Open. Every activity should get logged and be seen by general public.
-Lets save tax payers money and be used in the right directions.
+Lets fix our Governments. Make it Open and agile. No age old tools and processes anymore. 
+If we are agile, we can improve faster, adopt better tools and processes. Agree?
+
+**We need:** 
+Rapid innovation at govt level. We need entrepreneurs to run and envision our govt system and processes.
+Lets replace them all with hackers, great minds and entrepreneurs. 
+So should our systems should function like Corporates? 
+Think. Think different.
+These are things we are also thinking hard... ... ... 
+
+**How to fix a lot of things:**
+Every activity should get logged and be seen by general public.
+Lets save tax payers money and visionaries think to use them in the right direction.
 
 **Idea:** Open Source collaborated Govt System: Fix and change my govt. 
 Fix things in our system often. 
@@ -12,11 +23,11 @@ We are nurturing this project and it should evolve.
 It will be open sourced to public and downloads once its ready. 
 Later you are free to hack and make it better for your individual govt systems. 
 
-**Aim: **
+**Aim:**
 Make this world a better place with rapid_transparent_collaboration.
 And this change should happen now, are you in? ready? We are. :)
 
-**Why we need such a system? **
+**Why we need such a system?**
 
 - we need an open system and tools for improving and running our systems. The older systems needs change, more transparency.
 - Lets be a part of this change and renaissance. Join the movement! 
