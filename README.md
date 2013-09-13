@@ -4,13 +4,13 @@ changemygovt
 
 ### Aim: Lets fix our old Governments! 
 
-Lets run it!
+We should be running it!
 
-#### We need the change! The time is now.
+#### We need change! And the time is now.
 
-- Old government Rules suck! 
+- Old government Rules suck! Think... ...
 
-  Old Processes and Workflows were created and framed years ago in our 
+  Old Govt Processes and Workflows were created and framed years ago in our 
 constitution and has not been updated. 
 
 We need rapid reforms and changes for the current market demands.
@@ -24,8 +24,8 @@ A Revenue system that tracks every form of money movement!
 - We need tools to take People consensus for problems. 
 In the interest of our society and our systems!
 
-- Issue Trackers:
- Online Communities to discuss and brainstorm People's problems, 
+##### Issue Trackers:
+ Online Communities to discuss and brainstorm People's problems, getting closer to reality and thus
 giving faster solutions.
 
 - We need Radical changes.
@@ -39,51 +39,63 @@ In Granular levels and Holistic level.
 - Analysis tools and Reporting:
 Tools to zoom-in at the grass-root levels to find solutions for problems of common man.
 
-- Time to run and transform Education and make it reach all, in the remotest villages.
+##### Time to run and transform Education and make it reach all, to the remotest corner villages!
 
-- Rapid use of Technology and adoption!
-- 
-- Regulation of prices at all levels. 
+- Rapid use of Elegant Technology and adoption!
 
-- Dignity of Labour and Bonus Payment systems: 
+##### Regulation of prices at all levels. 
 
-a Teacher is also paid High salaries, respected and so are government officials too.
+##### Dignity of Labour and Reward based Payment systems: 
 
-Note: If you pay more and reward more, you get faster results and lesser corrupt minds!
+a Teacher should also be paid Higher salaries and respected, 
+so are are government officials. All are same, from a cleaner to a cook to a plumber.
 
-- Its my money, we are all heavy Tax payers. 
+A uniform payment system.
 
-Tax payers money, a Tax payers nation.
+Note: If you pay more and reward more, you get faster results and lesser corrupt minds! 
 
+And if you pay peanuts and degrade, the quality is lost with more corrupt practices.
+
+##### Tax payers money, its a Tax payers nation. 
+
+Tax runs our systems!
+
+- Its my money, we are all heavy Tax payers.
 - Our money is getting misused at every stage.
-- We pay Huge taxes attached in all commodity Items, Fuel, anything and everything, TAX is hidden deep inside.
+- We pay Huge taxes and its attached in all commodity Items: Fuel, anything and everything, 
+TAX is hidden deep inside.
 
-All our money and funds get misused and no one cares to build systems to transparently monitor Work progress.
+- All our money and funds gets misused and no one cares to build systems to transparently monitor Work progress.
 
 - And NO cares to help and influence this change, not to misuse Government funds.
 
-- Provide Quality healthcare and Value for money living.
+##### Provide Quality healthcare and Value for money living.
 
 - Highest forms of Hygiene and cleaniness.
 
-- Greater Transportation.
+##### Greater, safer and faster Transportation.
 
 efficient use of resources by running on High Quality public transport systems and Technology adoptions.
 
-- Giving Free Internet based Education to empower students.
+##### Giving Free Internet based Education to empower students.
 
-Enabling rapid discovery of one's niche and talent platforms!
+Giving access to resources will help in rapid discovery of one's niche and more talent platforms!
+
+##### Visionaries.
 
 - Nurture, Elect and represent capable leaders, Intellectuals and visionaries to represent our system. 
-- To Building the largest community of Real world Problem solvers. 
 
-Problems voted up by a function of HQ(Humanity Quotient), Need for the hour, Priority and Intensity.
+##### Build the largest community of Real world Problem solvers. 
+
+Problems voted up by a function of HQ(Humanity Quotient), Need for the hour, Priority and Problem Intensity.
 
 ## Our mission is to change things, pushing humanity ahead!
 
-### Processes
-No age-old tools and processes anymore. 
-Lets break things and move fast.
+### Processes:
+
+- No age-old tools and processes anymore. 
+- Lets break things and move fast.
+
 If we are agile, we can improve faster, adopt better tools and processes. Agree?
 
 ### Development processes 
