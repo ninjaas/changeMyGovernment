@@ -4,74 +4,86 @@ changemygovt
 
 ### Aim: Lets fix our old Governments! 
 
-We should be running it!
+Motivation: We should be running it!
 
-#### We need change! And the time is now.
+#### At this hour, we need change! And the right time is now.
 
-- Old government Rules suck! Think... ...
+- Old government Rules suck! 
+
+### Think... ...
 
   Old Govt Processes and Workflows were created and framed years ago in our 
 constitution and has not been updated. 
 
 We need rapid reforms and changes for the current market demands.
 
-- At this hour, we strongly need transparent processes, elegant systems, Intellectual leaders and better tools.
+- At this hour, we strongly need transparent processes, Open source platforms, elegant systems, 
+Intellectual leaders and better tools.
 
-##### Every Transaction be Tracked.
+#### Every Transaction is to be Tracked.
 
-A Revenue system that tracks every form of money movement! 
+A Revenue system that tracks every form of money movements! 
 
-- We need tools to take People consensus for problems. 
-In the interest of our society and our systems!
+#### We need tools 
+To vote and get consensus for social problems, in the Best interest of our society and our systems!
 
-##### Issue Trackers:
- Online Communities to discuss and brainstorm People's problems, getting closer to reality and thus
-giving faster solutions.
+#### Issue Trackers:
+ Online-Virtual Communities to discuss, brainstorm, Vote for People's problems, 
+ platforms to get closer to reality and seeing progress faster. 
 
 - We need Radical changes.
 
-Faster completion of development projects.
-Actionable leaders and great souls.
+Faster funding to completion to Quality Checks of any development project.
 
-- Tracking Progress of projects
-In Granular levels and Holistic level.
+#### Systems and platforms to identify and Discover Leaders.
+
+- Bring Actionable leaders, Dreamers and great souls with emptyness inside to National Platforms.
+
+- Systems to Track Progress of projects.
+At Granular levels and Holistic level.
 
 - Analysis tools and Reporting:
-Tools to zoom-in at the grass-root levels to find solutions for problems of common man.
+Tools to zoom-in issues at the grass-root levels.
 
 ##### Time to run and transform Education and make it reach all, to the remotest corner villages!
 
 - Rapid use of Elegant Technology and adoption!
 
 ##### Regulation of prices at all levels. 
+Identify Demand and Supply.
 
-##### Dignity of Labour and Reward based Payment systems: 
+#### Equality, Dignity of Labour and a New type of Reward based Payment systems: 
 
-a Teacher should also be paid Higher salaries and respected, 
-so are are government officials. All are same, from a cleaner to a cook to a plumber.
+a Teacher should also be paid Higher salaries and respected more, 
+so are to be government officials. All are same, from a floor cleaner to a cook to a plumber.
+Respect all. 
+###### We all serve for each other.
 
-A uniform payment system.
+#### Reward, Feedback based Payment systems.
 
-Note: If you pay more and reward more, you get faster results and lesser corrupt minds! 
+Note: If you pay more and reward more, you should get faster results and lesser corrupt minds! 
 
-And if you pay peanuts and degrade, the quality is lost with more corrupt practices.
+And if you pay peanuts all the time, expect the quality to be poor and growth of corrupt practices.
 
 ##### Tax payers money, its a Tax payers nation. 
 
 Tax runs our systems!
 
-- Its my money, we are all heavy Tax payers.
-- Our money is getting misused at every stage.
+- Its my money, we all are heavy Tax payers.
+- But, our money is getting misused at every stage.
 - We pay Huge taxes and its attached in all commodity Items: Fuel, anything and everything, 
-TAX is hidden deep inside.
+TAX is hidden deep deep inside.
 
-- All our money and funds gets misused and no one cares to build systems to transparently monitor Work progress.
+##### The need — 
 
-- And NO cares to help and influence this change, not to misuse Government funds.
+All our money and funds gets misused and no one cares to build systems to transparently monitor progress and 
+funds use.
 
-##### Provide Quality healthcare and Value for money living.
+- Time to care to help and influence this change, zero misuse of our Government funds.
 
-- Highest forms of Hygiene and cleaniness.
+#### Provide Quality healthcare and Value for money living.
+
+- Highest forms of Hygiene and cleanliness.
 
 ##### Greater, safer and faster Transportation.
 
