@@ -2,15 +2,20 @@ changemygovt
 ============
 
 
-### Aim: Lets fix our old Governments! 
+### Aim: Fix our old Governments! 
 
-Motivation: We should be running it!
+### Contribution:
+- Pull Requests are Welcome.
 
-#### At this hour, we need change! And the right time is now.
+### Motivation: 
+- Better Transparent Governments.
+- Hackers should be running it!
+
+- #### At this hour, we need change! And the right time is to act now.
 
 - Old government Rules suck! 
 
-### Think... ...
+### Think
 
   Old Govt Processes and Workflows were created and framed years ago in our 
 constitution and has not been updated. 
@@ -20,18 +25,20 @@ We need rapid reforms and changes for the current market demands.
 - At this hour, we strongly need transparent processes, Open source platforms, elegant systems, 
 Intellectual leaders and better tools.
 
-#### Every Transaction is to be Tracked.
+#### Every Transaction be Tracked.
 
-A Revenue system that tracks every form of money movements! 
+- A Revenue system that tracks every form of money movement! 
+- No chance for Fraud.
 
-#### We need tools 
+#### We need Forums 
 To vote and get consensus for social problems, in the Best interest of our society and our systems!
 
 #### Issue Trackers:
- Online-Virtual Communities to discuss, brainstorm, Vote for People's problems, 
- platforms to get closer to reality and seeing progress faster. 
-
-- We need Radical changes.
+ - Online-Virtual Communities to discuss, brainstorm, Vote for the need, 
+ - Get consensus for People's problems, 
+ - Nurturing environments to platforms. 
+ - seeing progress faster. 
+ - We need Radical changes.
 
 Faster funding to completion to Quality Checks of any development project.
 
@@ -45,11 +52,17 @@ At Granular levels and Holistic level.
 - Analysis tools and Reporting:
 Tools to zoom-in issues at the grass-root levels.
 
-##### Time to run and transform Education and make it reach all, to the remotest corner villages!
+#### Transform Education and Learning. 
+- Make it reach all, to the remotest kid!
+- All kids are connected to Internet.
+- Free Internet Baloons.
 
-- Rapid use of Elegant Technology and adoption!
+### Elegant Technology adoption!
+- Fund great projects faster.
+- Call to action Team.
+- Quality Check Team.
 
-##### Regulation of prices at all levels. 
+#### Regulation of prices at all levels. 
 Identify Demand and Supply.
 
 #### Equality, Dignity of Labour and a New type of Reward based Payment systems: 
