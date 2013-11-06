@@ -4,6 +4,12 @@ Change My Government!
 
 ### Aim: Fix our old Governments! 
 
+## How we solve?
+Agile Experiments, Fail-Iterate, Public-Involvement & Feedback, Create an Open Government Platform & People-powered Communities.
+
+## Stage:
+Drafting.
+
 ### Contribution:
 - Pull Requests are Welcome.
 
@@ -15,7 +21,7 @@ Change My Government!
 
 - Old government Rules suck! 
 
-### Think
+### Inspiration
 
   Old Govt Processes and Workflows were created and framed years ago in our 
 constitution and has not been updated. 
